@@ -1,0 +1,15 @@
+{
+  "name": "gistbox",
+  "version": "1.0.0",
+  "description": "A Form for fetching users gists and display the latest gist",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gistbox"
+  },
+  "author": "Raphael Karanja",
+  "license": "ISC"
+}
